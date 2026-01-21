@@ -274,3 +274,9 @@ void LCD_PUTS(char *str) {
   /* USER CODE END 2 */
 ```
 
+결과 
+
+<img width="806" height="540" alt="image" src="https://github.com/user-attachments/assets/1301ddc3-9579-4a61-b632-233d46c1bfd7" />
+
+HELLOW WORLD
+![HELLOW WORLD](https://github.com/user-attachments/assets/fca108ed-afe7-494a-97de-049adc7aca0a)
